@@ -9,3 +9,12 @@ var numberOfPets = 2
 var likesTravel = true
 var hatesCats = false
 var hasAPartner = true 
+
+name = "Nathan"
+location = "Colorado"
+favoriteColor = "purple"
+
+console.log(name)
+console.log(location)
+console.log(hatesCats)
+
